@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PradumnGarg&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Pradumn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PradumnGarg&layout=compact&theme=algolia)
-[![wakatime](https://wakatime.com/badge/user/a3b45fc6-7eb8-4f0a-ad7f-157cb5c34e9b.svg)](https://wakatime.com/a3b45fc6-7eb8-4f0a-ad7f-157cb5c34e9b)
 [![wakatime](https://wakatime.com/badge/user/a3b45fc6-7eb8-4f0a-ad7f-157cb5c34e9b.svg)](https://wakatime.com/@a3b45fc6-7eb8-4f0a-ad7f-157cb5c34e9b)
+[![wakatime](https://wakatime.com/badge/user/25867492-5aa1-4e59-b739-9fa62939e425.svg)](https://wakatime.com/@25867492-5aa1-4e59-b739-9fa62939e425)
