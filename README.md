@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**PradumnGarg/PradumnGarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**somil24/somil24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Pradumn's github stats](https://github-readme-stats.vercel.app/api?username=PradumnGarg&count_private=true&show_icons=true&theme=algolia&hide=contribs,issues)
+
+![Pradumn's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PradumnGarg&layout=compact&theme=algolia)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PradumnGarg&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Pradumn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PradumnGarg&layout=compact&theme=algolia)
+[![wakatime](https://wakatime.com/badge/user/a3b45fc6-7eb8-4f0a-ad7f-157cb5c34e9b.svg)](https://wakatime.com/@a3b45fc6-7eb8-4f0a-ad7f-157cb5c34e9b)
